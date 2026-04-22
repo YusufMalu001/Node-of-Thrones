@@ -17,7 +17,6 @@ Relationships- ['SeenOrMentioned', 'Membership', 'Religion', 'Center', 'Location
        'Formedfrom', 'Cadetbranches', 'Militarystrength', 'Premiere',
        'Finale']
 
-I have written a introductory blog about web scraping - https://codefringo.wordpress.com/2018/10/22/webcralwer-in-python/
 
 Important files-
 1. spiders/GotTGraphSpider.py is the main spider used to scrape fandom wiki
